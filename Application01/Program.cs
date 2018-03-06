@@ -21,5 +21,10 @@ namespace Application01
         {
             return a * b;
         }
+
+        static int division(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
