@@ -16,5 +16,10 @@ namespace Application01
         {
             return a + b;
         }
+
+        static int multiplicacion(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
