@@ -9,6 +9,12 @@ namespace Application01
     {
         static void Main(string[] args)
         {
+
+        }
+
+        static int suma(int a, int b)
+        {
+            return a + b;
         }
     }
 }
